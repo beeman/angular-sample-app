@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   <h1>
     {{title}}
   </h1>
+  <sampleComponent></sampleComponent>
   `,
   styleUrls: ['./app.component.scss']
 })
