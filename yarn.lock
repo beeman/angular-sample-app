@@ -244,6 +244,10 @@ angular-cli@1.0.0-beta.22:
     yam "0.0.18"
     zone.js "^0.6.23"
 
+angular-sample-module@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/angular-sample-module/-/angular-sample-module-0.1.2.tgz#05dcf65ccfe17eef74c529cd857acff874e98b36"
+
 angular2-template-loader@^0.5.0:
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/angular2-template-loader/-/angular2-template-loader-0.5.0.tgz#a16db190faaf9f8e8e9410f3c468370de75127a6"
@@ -3523,11 +3527,7 @@ lowercase-keys@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-1.0.0.tgz#4e3366b39e7f5457e35f1324bdf6f88d0bfc7306"
 
-lru-cache@2:
-  version "2.7.3"
-  resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-2.7.3.tgz#6d4524e8b955f95d4f5b58851ce21dd72fb4e952"
-
-lru-cache@2.2.x:
+lru-cache@2, lru-cache@2.2.x:
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-2.2.4.tgz#6c658619becf14031d0d0b594b16042ce4dc063d"
 
